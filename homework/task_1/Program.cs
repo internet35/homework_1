@@ -5,13 +5,13 @@ Console.Write("Введите 2-е число");
 int m = Convert.ToInt32(Console.ReadLine());
 if(n>m)
    { 
-      Console.Write("Максимальное значение= ");
-      Console.WriteLine(n);
+      Console.WriteLine("Максимальное значение= "+n);
+      Console.WriteLine("Минимальное значение= "+m);
    }
 else
    {
-      Console.Write("Максимальное значение= ");
-      Console.WriteLine(m); 
+      Console.WriteLine("Максимальное значение= "+m);
+      Console.WriteLine("Минимальное значение= "+n);
    }
 
    

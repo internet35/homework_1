@@ -5,7 +5,9 @@ Console.Write("Введите 2-е число");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите 3-е число");
 int c = Convert.ToInt32(Console.ReadLine());
-if(n>m)
-   Console.WriteLine(n);
-else
-    Console.WriteLine(m);   
+int max=n;
+if(n>max) max=n;
+if(m>max) max=m;
+if(c>max) max=c;
+Console.Write("max=");
+Console.WriteLine(max);   
