@@ -1,0 +1,15 @@
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\bin\Debug\net6.0\task_dop.exe
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\bin\Debug\net6.0\task_dop.deps.json
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\bin\Debug\net6.0\task_dop.runtimeconfig.json
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\bin\Debug\net6.0\task_dop.dll
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\bin\Debug\net6.0\task_dop.pdb
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.csproj.AssemblyReference.cache
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfoInputs.cache
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfo.cs
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.csproj.CoreCompileInputs.cache
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.dll
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\refint\task_dop.dll
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.pdb
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\task_dop.genruntimeconfig.cache
+C:\Users\alla\Desktop\Seminar_C#\homework\task_dop\obj\Debug\net6.0\ref\task_dop.dll

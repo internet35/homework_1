@@ -1,15 +1,17 @@
 ﻿Console.Clear();
 Console.Write("Введите 1-е число");
 int n = Convert.ToInt32(Console.ReadLine());
+if (n<100) 
 
-while(n>=1000)
+    Console.Write("Нет третьего числа");  
+else
 {
-    n=n/10;    
-}  
+while(n>=1000)
+n=n/10;     
+Console.WriteLine(n%10); 
+}
 
-Console.Write(n%10); 
 
-if  (n<100) Console.Write("Нет третьего числа");
 
 
 
