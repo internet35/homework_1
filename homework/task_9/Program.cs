@@ -1,0 +1,14 @@
+﻿Console.Clear();
+Console.Write("Введите координаты x1");
+double x1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты точки y1");
+double y1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты z1");
+double z1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты точки x2");
+double x2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты точки y2");
+double y2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты точки z2");
+double z2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine( Math.Sqrt((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2)+(z1-z2)*(z1-z2)));
