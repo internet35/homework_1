@@ -8,7 +8,7 @@ int result =1;
 
 for (i = 1; i <= m; i ++)
 {
-    result = result*m;
+    result = result*n;
 
 }
  Console.Write(result);
